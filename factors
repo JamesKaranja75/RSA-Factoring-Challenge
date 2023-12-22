@@ -4,7 +4,7 @@ from sys import argv
 
 """
 File_name: factors
-Created: 22th of December, 2023
+Created: 22nd of December, 2023
 Auth: James Karanja
 Size: undefined
 Project: RSA-Factoring-Challenge
